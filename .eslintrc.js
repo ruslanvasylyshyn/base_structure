@@ -3,7 +3,7 @@ module.exports = {
     browser: true,
     es2021: true,
   },
-  extends: '@mate-academy/eslint-config',
+  extends: 'airbnb-base',
   overrides: [],
   parserOptions: {
     ecmaVersion: 'latest',
